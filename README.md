@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hi 👋, I'm Hemachandra
 🎓B.TECH Computer Science and Engineering<br>📊Aspiring AI Engineer | Machine Learning | Deep Learning | Generative AI<br>💻Skilled in Python, NumPy, Pandas, Matplotlib, SQL, Git, GitHub, HTML, CSS, Django, and Flask.<br>📈Currently expanding my expertise in Machine Learning, Deep Learning, NLP, LLMs, and Generative AI.<br>🌱Learning today. Building tomorrow. Innovating with AI. ⭐⭐
 
 
