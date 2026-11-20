@@ -1,137 +1,272 @@
 
-# 👋 About Me
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-Hi, I'm **Hemachandra** — a Computer Science graduate interested in the intersection of technology, business, AI, and organizational development.
+<div align="center">
 
-🎓 B.Tech in Computer Science & Engineering  
-🏢 Management Trainee – Operations & Technology at Zytra Tech Solutions  
-🤖 Working across AI Governance, AI Risk Research, and Technology Management  
-📊 Interested in Business Strategy, Product Development, and Operations  
-🌱 Exploring emerging technologies, AI systems, and business innovation  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:14213D,100:5B3FD0&text=Hemachandra&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Technology%20%7C%20AI%20Governance%20%7C%20Business%20Operations&descAlignY=60&descSize=18" width="100%"/>
 
-I enjoy working on technology platforms, improving systems and processes, researching emerging AI risks, and contributing to business and organizational initiatives.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Technology+%26+Exploring+AI;AI+Governance+%7C+Research+%7C+Operations;Turning+Ideas+Into+Systems;Learning.+Building.+Exploring+What's+Next." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/hemachandra-venk/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hemachandrajoy176@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Hemachandra-P">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemachandra-venk/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hemachandra_perigisetty)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemachandrajoy176@gmail.com)
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Hemachandra-P&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9"/>
+
+## `whoami`
+
+🎓 Computer Science Engineering Graduate
+
+💼 Management Trainee – Operations & Technology
+
+🏢 Zytra Tech Solutions Pvt. Ltd.
+
+🤖 AI Governance & Risk Research
+
+📊 Business Operations & Product Development
+
+🌏 Interested in global opportunities and emerging technology
+
+<br clear="right"/>
+
+> Interested in how technology, business, and people come together to build and scale meaningful systems.
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     EXPERIENCE                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 💼 Experience
 
+<img src="https://img.shields.io/badge/AI-Governance-14213D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operations-Management-5B3FD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Technology-Strategy-58A6FF?style=flat-square"/>
+
 ### Zytra Tech Solutions Pvt. Ltd.
-**Management Trainee – Operations & Technology | AI Governance**
+**Management Trainee — Operations & Technology**
 
-- Contributing to AI Governance initiatives, technology management, business operations, and strategic activities.
-- Supporting AI Governance platforms covering AI asset management, use case tracking, risk assessment, and governance workflows.
-- Researching emerging risks across agentic and traditional AI systems and contributing to AI Risk Atlas updates.
-- Supporting AI validation, platform testing, documentation, and responsible AI practices.
-- Coordinating university partnerships, recruitment initiatives, and company representation.
-- Managing corporate registrations, startup ecosystem listings, partnerships, conferences, and business development activities.
-- Coordinating office setup and workspace establishment at MEDHA Towers and Amaravati Quantum Valley.
-- Creating promotional videos, product presentations, and digital content for corporate outreach.
-
----
-
-## 🛠️ Skills & Technologies
-
-### 🤖 AI & Emerging Technologies
-Python • Machine Learning • Deep Learning • Generative AI • RAG • LLMs • AI Agents • Model Evaluation • AI Governance • AI Risk Research
-
-### 📊 Data & Analytics
-SQL • NumPy • Pandas • Data Analysis • Scikit-learn
-
-### 🌐 Web & Backend Development
-HTML • CSS • JavaScript • Django • FastAPI
-
-### 🗄️ Databases
-PostgreSQL • MySQL
-
-### 💻 Tools & Platforms
-Git • GitHub • Jupyter Notebook • Google Colab • MS Excel • PowerPoint
-
-### 📈 Business & Operations
-Business Analysis • Business Development • Operations Management • Process Optimization • Stakeholder Management • Strategic Planning
-
-### 🚀 Product & Project Management
-Requirements Analysis • Product Coordination • Project Execution • Testing • Documentation
+- Contributing to AI governance, technology management, and business operations.
+- Supporting governance platforms for AI asset management, use case tracking, risk assessment, and compliance workflows.
+- Researching emerging risks in AI and agentic systems for the AI Risk Atlas.
+- Supporting platform testing, validation, documentation, and product improvements.
+- Coordinating partnerships, university initiatives, recruitment, and business development.
+- Supporting corporate registrations, startup ecosystem activities, and organizational expansion.
+- Coordinating office and workspace establishment at MEDHA Towers and Amaravati Quantum Valley.
+- Creating product presentations, promotional videos, and digital content.
 
 ---
 
-## 🚀 Projects
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### ORVEN – Enterprise AI Validation Platform
-Enterprise AI governance and validation platform featuring AI asset management, RAG-based document retrieval, LLM evaluation, experiment tracking, and automated model performance assessment.
+## ⚡ Tech Arsenal
 
-### ORVEN AI – Enterprise AI Assistant
-Full-stack AI assistant integrating conversational AI, research assistance, code review, image generation, resume assistance, and intelligent workflows.
+<div align="center">
 
-### Android Malware Detection – Published Research
-Conducted Android malware detection research using static and dynamic analysis, implementing machine learning models including KNN, Naive Bayes, Decision Tree, Random Forest, and 1D-CNN. Presented research at ICICST 2026, NIT Jalandhar.
+### Artificial Intelligence
 
-### Web-Based Health Diagnosis System
-Developed an AI-based disease prediction application using CNN and ontology techniques, with Java backend and MySQL database.
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
 
-### Water Quality Prediction – Machine Learning
-Analyzed environmental datasets and developed predictive models using Random Forest, Logistic Regression, and KNN to assess water quality.
+<br/>
 
-### Photography Portfolio – Web Platform
-Designed and deployed a responsive photography platform featuring interactive galleries, cloud image storage, and an administrative dashboard.
+<img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Governance-0D1117?style=for-the-badge"/>
 
----
+### Development
 
-## 🎓 Education
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,java&theme=dark"/>
 
-**SRM Institute of Science and Technology**  
-B.Tech – Computer Science and Engineering  
-2022 – 2026 | CGPA: 8.39
+### Data & Databases
 
----
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github&theme=dark"/>
 
-## 📜 Certifications
+### Tools & Platforms
 
-- Machine Learning Specialization – DeepLearning.AI
-- Generative AI with Large Language Models – DeepLearning.AI
-- Oracle Cloud Infrastructure Foundations – Oracle
+<img src="https://skillicons.dev/icons?i=vscode,vercel,linux&theme=dark"/>
 
----
-
-## 🏆 Academic Service & Leadership
-
-- **Research Reviewer** – ICICST 2026, NIT Jalandhar
-- **Research Reviewer** – CE2CT 2026, Graphic Era Hill University
-- **Author & Presenter** – ICICST 2026
-- **ORM Committee Head** – AARUUSH
-- **Discipline Committee Head** – DSA
+</div>
 
 ---
 
-## 🎯 Areas of Interest
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     PROJECTS                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-- Business Strategy & Business Analytics
-- Product Management & Product Development
-- Operations & Project Management
-- Entrepreneurship & Startup Ecosystems
-- AI Governance & Emerging Technologies
-- Research & Innovation
-- International Business & Career Opportunities
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ ORVEN
+**Enterprise AI Validation Platform**
+
+AI governance and validation platform with:
+
+- AI Asset Management
+- RAG Document Retrieval
+- LLM Evaluation
+- Experiment Tracking
+- Model Validation
+
+</td>
+<td width="50%">
+
+### 🤖 ORVEN AI
+**Enterprise AI Assistant**
+
+Full-stack intelligent AI assistant featuring:
+
+- AI Research
+- Conversational AI
+- Code Review
+- Image Generation
+- Intelligent Workflows
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🦠 Android Malware Detection
+**Published Research**
+
+Machine learning-based Android malware detection using static and dynamic analysis.
+
+Models: KNN, Naive Bayes, Decision Tree, Random Forest, 1D-CNN.
+
+Presented at ICICST 2026.
+
+</td>
+<td width="50%">
+
+### 🩺 Health Diagnosis System
+**AI-Based Prediction Platform**
+
+Disease prediction using CNN and ontology techniques with Java backend and MySQL.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌊 Water Quality Prediction
+**Environmental Machine Learning**
+
+Predictive analysis using environmental data and ML models.
+
+Random Forest, Logistic Regression, KNN.
+
+</td>
+<td width="50%">
+
+### 📸 Photography Portfolio
+**Full-Stack Web Platform**
+
+Responsive photography platform with interactive galleries, cloud image storage, and admin dashboard.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Hemachandra-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+## 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Hemachandra-P&theme=dark&hide_border=false)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Hemachandra-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hemachandra-P&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Hemachandra-P&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF"/>
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemachandra-P&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+
+</div>
 
 ---
 
-## 💡 Motto
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION SNAKE                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-**Learning. Building. Managing. Exploring what's next. 🚀**
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Hemachandra-P/Hemachandra-P/output/github-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CERTIFICATIONS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🏅 Certifications
+
+- Machine Learning Specialization — DeepLearning.AI
+- Generative AI with Large Language Models — DeepLearning.AI
+- Oracle Cloud Infrastructure Foundations — Oracle
+
+---
+
+## 🧠 Beyond the Code
+
+<img src="https://img.shields.io/badge/Business-Strategy-14213D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product-Management-5B3FD0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Research-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operations-Leadership-14213D?style=for-the-badge"/>
+
+- 📈 Business Strategy & Analytics
+- 🚀 Product Development & Management
+- 🌐 Operations & Project Management
+- 🏢 Startup Ecosystems & Entrepreneurship
+- 🔬 AI Governance & Research
+- 🌍 International Opportunities
+- 📷 Photography & Visual Creativity
+
+---
+
+<div align="center">
+
+### ✨ Learning. Building. Managing. Exploring What's Next.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5B3FD0,100:0D1117&section=footer"/>
+
+</div>
