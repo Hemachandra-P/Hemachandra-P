@@ -1,109 +1,137 @@
-# 💫 About Me
 
-Hi 👋, I'm **Hemachandra**
+# 👋 About Me
 
-🎓 B.Tech Computer Science and Engineering
-🤖 AI Engineer focused on **Machine Learning, Deep Learning & Generative AI**
-🧠 Exploring **NLP, LLMs, RAG, AI Agents and intelligent applications**
-💻 Skilled in **Python, SQL, Django, Flask, Git and GitHub**
-📚 Continuously learning and building with modern AI technologies
-🌱 **Learning today. Building tomorrow. Innovating with AI. 🚀**
+Hi, I'm **Hemachandra** — a Computer Science graduate interested in the intersection of technology, business, AI, and organizational development.
 
----
+🎓 B.Tech in Computer Science & Engineering  
+🏢 Management Trainee – Operations & Technology at Zytra Tech Solutions  
+🤖 Working across AI Governance, AI Risk Research, and Technology Management  
+📊 Interested in Business Strategy, Product Development, and Operations  
+🌱 Exploring emerging technologies, AI systems, and business innovation  
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/hemachandra_perigisetty)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hemachandra-venk/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hemachandrajoy176@gmail.com)
+I enjoy working on technology platforms, improving systems and processes, researching emerging AI risks, and contributing to business and organizational initiatives.
 
 ---
 
-# 💻 Tech Stack
+## 🌐 Connect With Me
 
-### 🤖 AI & Machine Learning
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemachandra-venk/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hemachandra_perigisetty)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemachandrajoy176@gmail.com)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-0A0A0A?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-2E8B57?style=for-the-badge)
-![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-2C3E50?style=for-the-badge)
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 💼 Experience
 
-### 📊 Data Science
+### Zytra Tech Solutions Pvt. Ltd.
+**Management Trainee – Operations & Technology | AI Governance**
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+- Contributing to AI Governance initiatives, technology management, business operations, and strategic activities.
+- Supporting AI Governance platforms covering AI asset management, use case tracking, risk assessment, and governance workflows.
+- Researching emerging risks across agentic and traditional AI systems and contributing to AI Risk Atlas updates.
+- Supporting AI validation, platform testing, documentation, and responsible AI practices.
+- Coordinating university partnerships, recruitment initiatives, and company representation.
+- Managing corporate registrations, startup ecosystem listings, partnerships, conferences, and business development activities.
+- Coordinating office setup and workspace establishment at MEDHA Towers and Amaravati Quantum Valley.
+- Creating promotional videos, product presentations, and digital content for corporate outreach.
 
-### 🌐 Web & Backend
+---
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DJANGO%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🛠️ Skills & Technologies
+
+### 🤖 AI & Emerging Technologies
+Python • Machine Learning • Deep Learning • Generative AI • RAG • LLMs • AI Agents • Model Evaluation • AI Governance • AI Risk Research
+
+### 📊 Data & Analytics
+SQL • NumPy • Pandas • Data Analysis • Scikit-learn
+
+### 🌐 Web & Backend Development
+HTML • CSS • JavaScript • Django • FastAPI
 
 ### 🗄️ Databases
+PostgreSQL • MySQL
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### 💻 Tools & Platforms
+Git • GitHub • Jupyter Notebook • Google Colab • MS Excel • PowerPoint
 
-### 🛠️ Development Tools
+### 📈 Business & Operations
+Business Analysis • Business Development • Operations Management • Process Optimization • Stakeholder Management • Strategic Planning
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-### 🎨 Creative Tools
-
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-### 🎮 Interests
-
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
+### 🚀 Product & Project Management
+Requirements Analysis • Product Coordination • Project Execution • Testing • Documentation
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Projects
 
-![](https://github-readme-stats.shion.dev/api?username=Hemachandra-P\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+### ORVEN – Enterprise AI Validation Platform
+Enterprise AI governance and validation platform featuring AI asset management, RAG-based document retrieval, LLM evaluation, experiment tracking, and automated model performance assessment.
 
-<br/>
+### ORVEN AI – Enterprise AI Assistant
+Full-stack AI assistant integrating conversational AI, research assistance, code review, image generation, resume assistance, and intelligent workflows.
 
-![](https://streak-stats.demolab.com/?user=Hemachandra-P\&theme=dark\&hide_border=false)
+### Android Malware Detection – Published Research
+Conducted Android malware detection research using static and dynamic analysis, implementing machine learning models including KNN, Naive Bayes, Decision Tree, Random Forest, and 1D-CNN. Presented research at ICICST 2026, NIT Jalandhar.
 
-<br/>
+### Web-Based Health Diagnosis System
+Developed an AI-based disease prediction application using CNN and ontology techniques, with Java backend and MySQL database.
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hemachandra-P\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+### Water Quality Prediction – Machine Learning
+Analyzed environmental datasets and developed predictive models using Random Forest, Logistic Regression, and KNN to assess water quality.
+
+### Photography Portfolio – Web Platform
+Designed and deployed a responsive photography platform featuring interactive galleries, cloud image storage, and an administrative dashboard.
+
+---
+
+## 🎓 Education
+
+**SRM Institute of Science and Technology**  
+B.Tech – Computer Science and Engineering  
+2022 – 2026 | CGPA: 8.39
 
 ---
 
-### ✍️ Random Dev Quote
+## 📜 Certifications
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical\&theme=radical)
+- Machine Learning Specialization – DeepLearning.AI
+- Generative AI with Large Language Models – DeepLearning.AI
+- Oracle Cloud Infrastructure Foundations – Oracle
+
+---
+
+## 🏆 Academic Service & Leadership
+
+- **Research Reviewer** – ICICST 2026, NIT Jalandhar
+- **Research Reviewer** – CE2CT 2026, Graphic Era Hill University
+- **Author & Presenter** – ICICST 2026
+- **ORM Committee Head** – AARUUSH
+- **Discipline Committee Head** – DSA
 
 ---
 
-### 🐍 Contribution Snake
+## 🎯 Areas of Interest
 
-![snake gif](https://github.com/Hemachandra-P/Hemachandra-P/blob/output/github-snake-dark.svg)
+- Business Strategy & Business Analytics
+- Product Management & Product Development
+- Operations & Project Management
+- Entrepreneurship & Startup Ecosystems
+- AI Governance & Emerging Technologies
+- Research & Innovation
+- International Business & Career Opportunities
 
 ---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Hemachandra-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hemachandra-P&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Hemachandra-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 💡 Motto
+
+**Learning. Building. Managing. Exploring what's next. 🚀**
