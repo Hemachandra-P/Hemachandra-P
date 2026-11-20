@@ -1,43 +1,46 @@
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                       -->
+ <!-- ═══════════════════════════════════════════════════════════ -->
+<!--              ANIMATED HERO / INTRO                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:14213D,100:5B3FD0&text=Hemachandra&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Technology%20%7C%20AI%20Governance%20%7C%20Business%20Operations&descAlignY=60&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Technology+%26+Exploring+AI;AI+Governance+%7C+Research+%7C+Operations;Turning+Ideas+Into+Systems;Learning.+Building.+Exploring+What's+Next." alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&width=1200&color=0:050816,25:14213D,65:312E81,100:5B3FD0&text=Hemachandra&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Technology%20%7C%20AI%20Governance%20%7C%20Business%20Operations&descSize=19&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/hemachandra-venk/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:hemachandrajoy176@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Hemachandra-P">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=Technology+%26+AI+Governance;Research+%7C+Operations+%7C+Product+Development;Exploring+Emerging+Technologies;Building+Systems+%26+Exploring+Ideas;Learning.+Building.+Moving+Forward." alt="Animated introduction"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/hemachandra-venk/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hemachandrajoy176@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Hemachandra-P"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hemachandra-P&style=for-the-badge&color=5B3FD0&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                           -->
+<!--                     ABOUT ME                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Hemachandra-P&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9"/>
+<div align="center">
 
-## `whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:BC8CFF,100:5B3FD0&section=header" width="100%"/>
+
+</div>
+
+## <img src="https://img.shields.io/badge/01-ABOUT_ME-14213D?style=flat-square"/> `whoami`
+
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Hemachandra-P&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9"/>
 
 🎓 Computer Science Engineering Graduate
 
-💼 Management Trainee – Operations & Technology
+💼 Management Trainee — Operations & Technology
 
 🏢 Zytra Tech Solutions Pvt. Ltd.
 
@@ -49,22 +52,34 @@
 
 <br clear="right"/>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=2000&duration=4000&color=BC8CFF&center=true&vCenter=true&width=750&height=45&lines=Technology+%2B+Business+%2B+People;Understanding+systems.+Improving+ideas.+Building+impact." alt="Animated tagline"/>
+
+</div>
+
 > Interested in how technology, business, and people come together to build and scale meaningful systems.
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     EXPERIENCE                          -->
+<!--                   EXPERIENCE                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 💼 Experience
+## <img src="https://img.shields.io/badge/02-EXPERIENCE-14213D?style=flat-square"/> 💼 Experience
 
-<img src="https://img.shields.io/badge/AI-Governance-14213D?style=flat-square"/>
-<img src="https://img.shields.io/badge/Operations-Management-5B3FD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Technology-Strategy-58A6FF?style=flat-square"/>
+<div align="center">
 
-### Zytra Tech Solutions Pvt. Ltd.
+<img src="https://img.shields.io/badge/AI-GOVERNANCE-5B3FD0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPERATIONS-MANAGEMENT-14213D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TECHNOLOGY-STRATEGY-007ACC?style=for-the-badge"/>
+
+</div>
+
+### 🏢 Zytra Tech Solutions Pvt. Ltd.
 **Management Trainee — Operations & Technology**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=58A6FF&width=700&height=25&lines=Working+across+Technology%2C+Governance+%26+Operations..." alt=""/>
 
 - Contributing to AI governance, technology management, and business operations.
 - Supporting governance platforms for AI asset management, use case tracking, risk assessment, and compliance workflows.
@@ -78,57 +93,74 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                        -->
+<!--                     TECH STACK                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## ⚡ Tech Arsenal
+## <img src="https://img.shields.io/badge/03-TECH_STACK-14213D?style=flat-square"/> ⚡ Tech Arsenal
 
 <div align="center">
 
-### Artificial Intelligence
+### 🤖 Artificial Intelligence
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep_Learning-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Governance-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/DEEP_LEARNING-0D1117?style=for-the-badge&logo=pytorch&logoColor=BC8CFF"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=BC8CFF"/>
+<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=BC8CFF"/>
+<img src="https://img.shields.io/badge/AI_AGENTS-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/AI_GOVERNANCE-0D1117?style=for-the-badge&logoColor=BC8CFF"/>
 
-### Development
+<br/><br/>
+
+### 🌐 Development
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,java&theme=dark"/>
 
-### Data & Databases
+<br/><br/>
+
+### 📊 Data & Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github&theme=dark"/>
 
-### Tools & Platforms
+<br/><br/>
+
+### 🧰 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=vscode,vercel,linux&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=60&color=0:14213D,50:312E81,100:5B3FD0&text=Exploring%20%E2%80%A2%20Learning%20%E2%80%A2%20Building&fontColor=FFFFFF&fontSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     PROJECTS                           -->
+<!--                   PROJECTS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## <img src="https://img.shields.io/badge/04-PROJECTS-14213D?style=flat-square"/> 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=BC8CFF&center=true&vCenter=true&width=600&height=35&lines=Ideas+into+applications;Experiments+into+systems;Research+into+solutions" alt="Projects tagline"/>
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ ORVEN
-**Enterprise AI Validation Platform**
+<h3>🛡️ ORVEN</h3>
 
-AI governance and validation platform with:
+<img src="https://img.shields.io/badge/ENTERPRISE-AI_VALIDATION-5B3FD0?style=flat-square"/>
+
+AI governance and validation platform featuring:
 
 - AI Asset Management
 - RAG Document Retrieval
@@ -137,10 +169,11 @@ AI governance and validation platform with:
 - Model Validation
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 ORVEN AI
-**Enterprise AI Assistant**
+<h3>🤖 ORVEN AI</h3>
+
+<img src="https://img.shields.io/badge/INTELLIGENT-AI_ASSISTANT-007ACC?style=flat-square"/>
 
 Full-stack intelligent AI assistant featuring:
 
@@ -154,45 +187,56 @@ Full-stack intelligent AI assistant featuring:
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🦠 Android Malware Detection
-**Published Research**
+<h3>🦠 Android Malware Detection</h3>
+
+<img src="https://img.shields.io/badge/PUBLISHED-RESEARCH-14213D?style=flat-square"/>
 
 Machine learning-based Android malware detection using static and dynamic analysis.
 
-Models: KNN, Naive Bayes, Decision Tree, Random Forest, 1D-CNN.
+**Models:** KNN, Naive Bayes, Decision Tree, Random Forest, 1D-CNN.
 
 Presented at ICICST 2026.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🩺 Health Diagnosis System
-**AI-Based Prediction Platform**
+<h3>🩺 Health Diagnosis System</h3>
 
-Disease prediction using CNN and ontology techniques with Java backend and MySQL.
+<img src="https://img.shields.io/badge/AI-HEALTHCARE-5B3FD0?style=flat-square"/>
+
+AI-based disease prediction using CNN and ontology techniques.
+
+Java backend with MySQL.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌊 Water Quality Prediction
-**Environmental Machine Learning**
+<h3>🌊 Water Quality Prediction</h3>
 
-Predictive analysis using environmental data and ML models.
+<img src="https://img.shields.io/badge/MACHINE-LEARNING-007ACC?style=flat-square"/>
 
-Random Forest, Logistic Regression, KNN.
+Environmental predictive analysis using datasets and ML models.
+
+**Models:** Random Forest, Logistic Regression, KNN.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📸 Photography Portfolio
-**Full-Stack Web Platform**
+<h3>📸 Photography Portfolio</h3>
 
-Responsive photography platform with interactive galleries, cloud image storage, and admin dashboard.
+<img src="https://img.shields.io/badge/FULL_STACK-WEB_PLATFORM-14213D?style=flat-square"/>
+
+Photography platform with:
+
+- Interactive Galleries
+- Cloud Image Storage
+- Responsive UI
+- Admin Dashboard
 
 </td>
 </tr>
@@ -204,7 +248,7 @@ Responsive photography platform with interactive galleries, cloud image storage,
 <!--                    GITHUB STATS                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics
+## <img src="https://img.shields.io/badge/05-GITHUB_ANALYTICS-14213D?style=flat-square"/> 📊 GitHub Analytics
 
 <div align="center">
 
@@ -216,6 +260,10 @@ Responsive photography platform with interactive galleries, cloud image storage,
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemachandra-P&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hemachandra-P&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+
 </div>
 
 ---
@@ -224,11 +272,15 @@ Responsive photography platform with interactive galleries, cloud image storage,
 <!--                  CONTRIBUTION SNAKE                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Activity
+## <img src="https://img.shields.io/badge/06-CONTRIBUTIONS-14213D?style=flat-square"/> 🐍 Contribution Activity
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Hemachandra-P/Hemachandra-P/output/github-snake-dark.svg" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemachandra-P&bg_color=0D1117&color=58A6FF&line=5B3FD0&point=BC8CFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -238,7 +290,17 @@ Responsive photography platform with interactive galleries, cloud image storage,
 <!--                   CERTIFICATIONS                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🏅 Certifications
+## <img src="https://img.shields.io/badge/07-CERTIFICATIONS-14213D?style=flat-square"/> 🏅 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DeepLearning.AI-Machine_Learning-5B3FD0?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/DeepLearning.AI-Generative_AI-007ACC?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/Oracle-Cloud_Foundations-14213D?style=for-the-badge"/>
+
+</div>
 
 - Machine Learning Specialization — DeepLearning.AI
 - Generative AI with Large Language Models — DeepLearning.AI
@@ -246,27 +308,50 @@ Responsive photography platform with interactive galleries, cloud image storage,
 
 ---
 
-## 🧠 Beyond the Code
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   BEYOND THE CODE                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/Business-Strategy-14213D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Product-Management-5B3FD0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Research-58A6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operations-Leadership-14213D?style=for-the-badge"/>
-
-- 📈 Business Strategy & Analytics
-- 🚀 Product Development & Management
-- 🌐 Operations & Project Management
-- 🏢 Startup Ecosystems & Entrepreneurship
-- 🔬 AI Governance & Research
-- 🌍 International Opportunities
-- 📷 Photography & Visual Creativity
-
----
+## <img src="https://img.shields.io/badge/08-BEYOND_TECHNOLOGY-14213D?style=flat-square"/> 🧠 Beyond the Code
 
 <div align="center">
 
-### ✨ Learning. Building. Managing. Exploring What's Next.
+<img src="https://img.shields.io/badge/BUSINESS-STRATEGY-14213D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PRODUCT-MANAGEMENT-5B3FD0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-RESEARCH-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPERATIONS-LEADERSHIP-14213D?style=for-the-badge"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5B3FD0,100:0D1117&section=footer"/>
+</div>
+
+<table>
+<tr>
+<td align="center">📈<br/><b>Business Strategy</b><br/>Analytics</td>
+<td align="center">🚀<br/><b>Product</b><br/>Development</td>
+<td align="center">🌐<br/><b>Operations</b><br/>Management</td>
+</tr>
+<tr>
+<td align="center">🏢<br/><b>Startup</b><br/>Ecosystems</td>
+<td align="center">🔬<br/><b>AI Governance</b><br/>Research</td>
+<td align="center">🌍<br/><b>Global</b><br/>Opportunities</td>
+</tr>
+</table>
+
+- 📷 Photography & Visual Creativity
+- 💡 Technology Trends & Emerging Innovations
+- 🌱 Continuous Learning & Exploration
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Managing+%E2%80%A2+Exploring;The+journey+is+just+getting+started." alt="Animated footer"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:5B3FD0,40:312E81,75:14213D,100:050816&section=footer" width="100%"/>
 
 </div>
